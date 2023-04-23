@@ -1,5 +1,4 @@
 import "./WorkCardStyles.css"
-//import pro1 from "../assets/project1.png"
 import React from 'react'
 import { NavLink } from "react-router-dom"
 

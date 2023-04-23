@@ -13,8 +13,8 @@ const Card = () => {
                     <p className="btc">Université Cadi Ayyad</p>
                     <span className="bar"></span>
                     <p>2025-2028</p>
-                    <p>tha was just' an example :)</p>
-                    <p>// sans commentaire</p>
+                    <p>tha was just' an example :</p>
+                    <p>sans commentaire</p>
                     <Link to="/about" className="btn" >savoir encore</Link>
                 </div>
 
@@ -24,7 +24,7 @@ const Card = () => {
                     <p className="btc">L'École Marocaine des Sciences de l’ingénieure, EMSI,</p>
                     <span className="bar"></span>
                     <p>2020-2025</p>
-                    <p>// sans commentaire</p>
+                    <p>sans commentaire</p>
                     <Link to="/about" className="btn" >savoir encore</Link>
                 </div>
 
@@ -34,7 +34,7 @@ const Card = () => {
                     <p className="btc">Lycée Mohamed VI, Marrakech</p>
                     <span className="bar"></span>
                     <p>0000-0000</p>
-                    <p>// sans </p>
+                    <p> sans </p>
                     <Link to="/about" className="btn" >savoir encore</Link>
                 </div>
             </div>
